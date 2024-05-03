@@ -6,7 +6,7 @@ sfr.load_encoding_images("data/images/")
 
 
 cap = cv2.VideoCapture(0)
-
+face_recognition
 
 while True:
     ret, frame = cap.read()
