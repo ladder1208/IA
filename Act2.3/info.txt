@@ -1,0 +1,6 @@
+El alumno debe implementar una red neuronal de aprendizaje no supervisado, específicamente 
+el modelo de Gas Neural (Matinetz & Schulten, 1991). Para la prueba del modelo se va a utilizar 
+un conjunto de 40000 datos / señales  generadas aleatoriamente pertenecientes a un espacio de 1 x 1. 
+Es decir, el modelo contempla dos entradas (x1 y x2) que corresponde a las coordenadas del punto. 
+Esta data se debe utilizar para entrenar un modelo que agrupe equitativamente un conjunto de 
+400 unidades (salidas) distribuidas en un área tipo anillo:
